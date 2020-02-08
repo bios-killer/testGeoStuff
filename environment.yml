@@ -6,3 +6,11 @@ dependencies:
   - matplotlib
   - pandas
   - geopandas
+  - ipyleaflet
+  - pprint
+  - ipywidgets
+  - random
+  - json
+  - os
+  - requests
+  - shapely
