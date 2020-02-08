@@ -10,3 +10,4 @@ dependencies:
   - ipywidgets
   - requests
   - shapely
+  - descartes
