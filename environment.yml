@@ -11,3 +11,4 @@ dependencies:
   - requests
   - shapely
   - descartes
+  - python-telegram-bot
